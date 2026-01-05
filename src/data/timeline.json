@@ -14,7 +14,7 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter1_Portrait.jpg",
+          "src": "images/Chapter1_Portrait.jpg",
           "alt": "First meeting at Ennichisai"
         }
       ]
@@ -33,12 +33,12 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter2.jpg",
+          "src": "images/Chapter2.jpg",
           "alt": "GJUI Event Day 1"
         },
         {
           "type": "image",
-          "src": "./assets/chapter2-extend.jpg",
+          "src": "images/chapter2-extend.jpg",
           "alt": "GJUI Event Day 2"
         }
       ]
@@ -57,7 +57,7 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/chapter3.jpg",
+          "src": "images/chapter3.jpg",
           "alt": "Jiyuu Matsuri moments"
         }
       ]
@@ -76,7 +76,7 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter5.jpg",
+          "src": "images/Chapter5.jpg",
           "alt": "Ennichisai reunion"
         }
       ]
@@ -95,7 +95,7 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter6_refisi.jpg",
+          "src": "images/Chapter6_refisi.jpg",
           "alt": "First date at Moja Museum"
         }
       ]
@@ -114,12 +114,12 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter7_MaskOn.PNG",
+          "src": "images/Chapter7_MaskOn.PNG",
           "alt": "At Summarecon Mall"
         },
         {
           "type": "video",
-          "src": "./assets/44908.MP4",
+          "src": "images/44908.MP4",
           "alt": "Video memory"
         }
       ]
@@ -138,7 +138,7 @@
       "media": [
         {
           "type": "image",
-          "src": "./assets/Chapter8_refisi.jpg",
+          "src": "images/Chapter8_refisi.jpg",
           "alt": "Together at the wedding"
         }
       ]
