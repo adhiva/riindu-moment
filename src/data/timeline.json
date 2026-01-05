@@ -1,0 +1,147 @@
+{
+  "moments": [
+    {
+      "id": "moment-a",
+      "title": "Where It All Began",
+      "date": "July 2018",
+      "place": "Ennichisai Blok M",
+      "location": {
+        "lat": -6.2446,
+        "lng": 106.8006,
+        "name": "Blok M Square Rooftop"
+      },
+      "description": "Our first meeting at the Ennichisai cosplay event, on the rooftop of Blok M Square. A funny misunderstanding between 'ngeker (aiming)' and 'nyeker (barefoot)' that still makes me smile. Sometimes the best stories start with a little confusion and a lot of warmth.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter1_Portrait.jpg",
+          "alt": "First meeting at Ennichisai"
+        }
+      ]
+    },
+    {
+      "id": "moment-b",
+      "title": "A Number, a Smile, and ChatTime",
+      "date": "August 2018",
+      "place": "GJUI Event, Universitas Indonesia",
+      "location": {
+        "lat": -6.361834289686548, 
+        "lng": 106.82849509835177,
+        "name": "Universitas Indonesia"
+      },
+      "description": "Meeting again at the GJUI cosplay event. I remember waiting for you, buying ChatTime, and meeting through the fence because you didn't have a ticket. That was the first time I got your number — a simple moment that meant everything.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter2.jpg",
+          "alt": "GJUI Event Day 1"
+        },
+        {
+          "type": "image",
+          "src": "/assets/chapter2-extend.jpg",
+          "alt": "GJUI Event Day 2"
+        }
+      ]
+    },
+    {
+      "id": "moment-c",
+      "title": "From Messages to Moments",
+      "date": "November 2018",
+      "place": "Jiyuu Matsuri Event, Universitas Negeri Jakarta",
+      "location": {
+        "lat": -6.194480198295728, 
+        "lng": 106.87823168234213,
+        "name": "Universitas Negeri Jakarta"
+      },
+      "description": "Our conversations grew more frequent. Playing ML together, short meetups, taking photos with many different styles. Everything felt easy and natural when we were together.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/chapter3.jpg",
+          "alt": "Jiyuu Matsuri moments"
+        }
+      ]
+    },
+    {
+      "id": "moment-d",
+      "title": "Meeting Again, Quietly",
+      "date": "July 2019",
+      "place": "Ennichisai Event, Blok M Basement",
+      "location": {
+        "lat": -6.2446,
+        "lng": 106.8006,
+        "name": "Blok M Square Basement"
+      },
+      "description": "Back at Ennichisai, but in the basement this time. You cosplayed as kesshouban from Hataraku Saibou. It was a quiet, slightly awkward reconnection after some time apart — but seeing you again felt like coming home.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter5.jpg",
+          "alt": "Ennichisai reunion"
+        }
+      ]
+    },
+    {
+      "id": "moment-e",
+      "title": "Turning Moments into Memories",
+      "date": "2021",
+      "place": "Moja Museum, GBK",
+      "location": {
+        "lat": -6.217475570735511, 
+        "lng": 106.80395770154466,
+        "name": "Moja Museum, Gelora Bung Karno"
+      },
+      "description": "Reconnecting after a long pause and even unfollowing each other. Our first real date. We talked about where life had taken us, what had changed, and what stayed the same. It felt mature, gentle, and right.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter6_refisi.jpg",
+          "alt": "First date at Moja Museum"
+        }
+      ]
+    },
+    {
+      "id": "moment-f",
+      "title": "Wrong Directions but Chose a Right Person",
+      "date": "2021",
+      "place": "Summarecon Mall Serpong",
+      "location": {
+        "lat": -6.240882514942981, 
+        "lng": 106.6283579676662,
+        "name": "Summarecon Mall Serpong"
+      },
+      "description": "Mujigae Restaurant with its fried rice and melting cheese. Google Maps led me to Summarecon Bekasi instead of Serpong — completely the wrong direction. But somehow, being with you made even the detours feel worth it. Light K-pop conversations and good food with the right person.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter7_MaskOn.PNG",
+          "alt": "At Summarecon Mall"
+        },
+        {
+          "type": "video",
+          "src": "/assets/44908.MP4",
+          "alt": "Video memory"
+        }
+      ]
+    },
+    {
+      "id": "moment-g",
+      "title": "With You, Everything Feels Better",
+      "date": "December 2021",
+      "place": "Meruyung and Jagakarsa",
+      "location": {
+        "lat": -6.3378,
+        "lng": 106.8294,
+        "name": "Jagakarsa, South Jakarta"
+      },
+      "description": "Attending a colleague's wedding together, then visiting the coffee shop collaboration launch in Jagakarsa. I felt grateful, proud, and simply better — because you were there. No expectations, just appreciation for those shared moments.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/assets/Chapter8_refisi.jpg",
+          "alt": "Together at the wedding"
+        }
+      ]
+    }
+  ]
+}
