@@ -15,8 +15,8 @@ export default function App() {
 
   useEffect(() => {
     const { reason } = checkAccess()
-    // setAccessGranted(accessGranted => accessGranted || !reason)
-    setAccessGranted(true)
+    setAccessGranted(accessGranted => accessGranted || !reason)
+    // setAccessGranted(true)
     if (reason) {
       setAccessMessage(reason)
     }
